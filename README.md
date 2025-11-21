@@ -34,7 +34,8 @@ Run the entire stack (App + DB) with a single command:
 
 ```bash
 # 1. Clone repository
-git clone [https://github.com/evldmt/taskflow-api.git](https://github.com/evldmt/taskflow-api.git)
+git clone https://github.com/evldmt/taskflow-api.git
+(https://github.com/evldmt/taskflow-api.git)
 
 # 2. Create .env file
 cp .env.example .env
